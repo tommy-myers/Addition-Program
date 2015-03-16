@@ -1,4 +1,4 @@
-Welcome to Our First Python Program from http://learnpythontutorial.com
+Welcome to Our First Python Program from http://learnpythontutorial.com/addition-program-in-python/
 
 You can watch the Youtube tutorial here at https://www.youtube.com/embed/RijT7rnVtC4
 
